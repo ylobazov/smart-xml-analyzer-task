@@ -4,7 +4,7 @@ Finds target element in input HTML and compares it with diff HTML.
 
 ## Usage
 
-Assembly an executable jar:
+Assemble an executable jar:
 ```
 sbt assembly
 ```
